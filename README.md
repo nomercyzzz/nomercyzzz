@@ -19,7 +19,7 @@
 
 ###
 
-<h4 align="left">I'm a developer from Russia.<br><br>    👨‍🎓 I’m currently studying to become a Fullstack Developer<br><br>    📖 I'm currently learning Vue.js and SQL<br><br>    🎯 In my free time I enjoy exploring new tech, working on pet projects, and leveling up my skills</h4>
+<h3 align="left">I'm a developer from Russia.<br><br>    👨‍🎓 I’m currently studying to become a Fullstack Developer<br><br>    📖 I'm currently learning Vue.js and SQL<br><br>    🎯 In my free time I enjoy exploring new tech, working on pet projects, and leveling up my skills</h3>
 
 ###
 
@@ -59,5 +59,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nomercyzzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=true&order=2" height="100" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=nomercyzzz&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nomercyzzz/nomercyzzz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nomercyzzz/nomercyzzz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nomercyzzz/nomercyzzz/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
