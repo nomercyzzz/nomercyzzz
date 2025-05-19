@@ -15,11 +15,11 @@
 
 ###
 
-<h2 align="left">（づ￣3￣）づ╭❤️～About Me</h2>
+<h2 align="left">⚡About Me</h2>
 
 ###
 
-<h4 align="left">I'm a developer from Russia.<br><br>    🔭 I’m currently studying to become a Fullstack Developer<br><br>    📚 I'm currently learning Vue.js and SQL<br><br>    ⚡ In my free time I enjoy exploring new tech, working on pet projects, and leveling up my skills</h4>
+<h4 align="left">I'm a developer from Russia.<br><br>    👨‍🎓 I’m currently studying to become a Fullstack Developer<br><br>    📖 I'm currently learning Vue.js and SQL<br><br>    🎯 In my free time I enjoy exploring new tech, working on pet projects, and leveling up my skills</h4>
 
 ###
 
@@ -62,10 +62,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nomercyzzz/nomercyzzz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nomercyzzz/nomercyzzz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nomercyzzz/nomercyzzz/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/nomercyzzz/nomercyzzz/output/snake.svg" alt="Snake animation" />
 
 ###
