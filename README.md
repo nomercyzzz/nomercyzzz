@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm a developer from Russia.<br><br>    👨‍🎓 I’m currently studying to become a Fullstack Developer<br><br>    📖 I'm currently learning Vue.js and SQL<br><br>    🎯 In my free time I enjoy exploring new tech, working on pet projects, and leveling up my skills</p>
+<p align="left">I'm a developer from Russia.<br><br>    👨‍🎓 I’m currently studying to become a Fullstack Developer<br><br>    📖 I'm currently learning Vue.js and MongoDB<br><br>    🎯 In my free time I enjoy exploring new tech, working on pet projects, and leveling up my skills</p>
 
 ###
 
@@ -70,7 +70,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nomercyzzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nomercyzzz&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img
+    src="https://streak-stats.demolab.com?user=nomercyzzz&theme=dark&hide_border=true&border_radius=5"
+    height="150"
+    alt="GitHub streak"
+  />
+
 </div>
 
 ###
