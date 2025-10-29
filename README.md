@@ -69,14 +69,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nomercyzzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-    <img
-    src="https://streak-stats.demolab.com?user=nomercyzzz&theme=dark&hide_border=true&border_radius=5"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nomercyzzz&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true"
     height="150"
-    alt="GitHub streak"
+    alt="languages graph"
   />
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nomercyzzz&theme=transparent"
+    height="150"
+    alt="repos per language"
+  />
 </div>
+
+
 
 ###
 
