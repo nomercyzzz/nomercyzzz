@@ -1,24 +1,15 @@
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif"  />
-</div>
 
 ###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-</div>
-
-###
-
 <h1 align="center">👨‍💻 Hey there, welcome!</h1>
-
-###
-
+  <img
+    src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif"
+    height="200"
+    align="right"
+  />
 <h3 align="left">⚡About Me</h3>
 
 ###
-
+  
 <p align="left">I'm a developer from Russia.<br><br>    👨‍🎓 I’m currently studying to become a Fullstack Developer<br><br>    📖 I'm currently learning Vue.js and MongoDB<br><br>    🎯 In my free time I enjoy exploring new tech, working on pet projects, and leveling up my skills</p>
 
 ###
